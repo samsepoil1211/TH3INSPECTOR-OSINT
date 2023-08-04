@@ -137,11 +137,11 @@ this will motivate me to create more exciting stuffs for you
 <h2>📧 Contact</h2>
 <h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
  <tr><br>
-<td><a href="https://t.me/SamSepoil"><img src="https://img.shields.io/badge/TELEGRAM-MRMoham3dRiahi-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" style="max-width:100%;"></a></td>
+<td><a href="https://t.me/SamSepoil"><img src="https://img.shields.io/badge/TELEGRAM-_not_your_nobita" alt="Version" data-canonical-src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" style="max-width:100%;"></a></td>
 </tr>
 
  <tr>
-<td><a href="mailto: rootkit1211@proton.me"><img src="https://img.shields.io/badge/Mail-moham3driahi%40gmail.com-red " style="max-width:100%;"></a></td>
+<td><a href="mailto:rootkit1211@proton.me"><img src="https://img.shields.io/badge/Mail-moham3driahi%40gmail.com-red " style="max-width:100%;"></a></td>
 </tr>
 <hr>
 <h2> ✨ Finally Don't Miss Out My New Telegram Channel for Private Tools && Methods And Updates ✨ </h2>
