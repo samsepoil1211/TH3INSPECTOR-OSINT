@@ -1,6 +1,3 @@
-## 🚀🚀🔥🔥🔥CHECK MY NEW PRO PRIVATE TOOL 🔥🔥🔥🔥🚀🚀(https://github.com/Moham3dRiahi/XAttackProV30)
-
-
 <h2>Th3inspector Tool 🕵️</h2>
 <img align="left" width="120" height="120" src="https://i.imgur.com/63TSBiM.png">
 <p>Th3inspector 🕵️ best tool for Information Gathering 🔎<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ All in one tool for Information Gathering ⭐ </p>
