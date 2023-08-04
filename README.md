@@ -1,9 +1,9 @@
 <h2>Th3inspector Tool 🕵️</h2>
 <img align="left" width="120" height="120" src="https://i.imgur.com/63TSBiM.png">
 <p>Th3inspector 🕵️ best tool for Information Gathering 🔎<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ All in one tool for Information Gathering ⭐ </p>
-<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/Th3inspector"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/Th3inspector/blob/master/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="Build" data-canonical-src="https://img.shields.io/packagist/l/doctrine/orm.svg" style="max-width:100%;"></a><br>
+<a href="https://github.com/samsepoil1211/Th3inspector"><img src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/Th3inspector-1.9-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
+<a href="https://github.com/samsepoil1211/Th3inspector"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows%2FmacOS-brightgreengreen.svg" style="max-width:100%;"></a>
+<a href="https://github.com/samsepoil1211/Th3inspector/blob/master/LICENSE"><img src="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="Build" data-canonical-src="https://img.shields.io/packagist/l/doctrine/orm.svg" style="max-width:100%;"></a><br>
 <hr>
 <h4>Th3inspector 🕵️ best tool for Information Gathering 🔎</h4>
 <img src="https://i.imgur.com/Q81YJCU.png" data-canonical-src="https://i.imgur.com/niFwcaM.png" width="700" height="470">
@@ -16,9 +16,6 @@
 <img src="https://i.imgur.com/NYU2bYb.jpg" width="32%"></img>
 <img src="https://i.imgur.com/77MVBFF.jpg" width="400" height="156"></img>
 <hr>
-
-<h2>Video</h2>
-<a href="https://youtu.be/ZvsIbhRPSrI"><img src="https://i.imgur.com/ytHi4WB.jpg" style="max-width:100%;"></a>
 
 <h2>Usage</h2>
 
@@ -140,22 +137,22 @@ this will motivate me to create more exciting stuffs for you
 <h2>📧 Contact</h2>
 <h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
  <tr><br>
-<td><a href="https://t.me/mrmoham3driahi"><img src="https://img.shields.io/badge/TELEGRAM-MRMoham3dRiahi-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" style="max-width:100%;"></a></td>
+<td><a href="https://t.me/SamSepoil"><img src="https://img.shields.io/badge/TELEGRAM-MRMoham3dRiahi-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" style="max-width:100%;"></a></td>
 </tr>
 
  <tr>
-<td><a href="mailto:mohamedriahi@gmail.com"><img src="https://img.shields.io/badge/Mail-moham3driahi%40gmail.com-red " style="max-width:100%;"></a></td>
+<td><a href="mailto: rootkit1211@proton.me"><img src="https://img.shields.io/badge/Mail-moham3driahi%40gmail.com-red " style="max-width:100%;"></a></td>
 </tr>
 <hr>
 <h2> ✨ Finally Don't Miss Out My New Telegram Channel for Private Tools && Methods And Updates ✨ </h2>
 
-<a href="https://t.me/moham3driahi_tools"><img src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " alt="Version" data-canonical-src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " style="max-width:100%;"></a>
+<a href="https://t.me/Lostparadise_blackhat"><img src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " alt="Version" data-canonical-src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " style="max-width:100%;"></a>
 
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/samsepoil1211/Th3inspector.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
 ```
@@ -165,7 +162,7 @@ chmod +x install.sh && ./install.sh
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
-git clone https://github.com/Moham3dRiahi/Th3inspector.git
+git clone https://github.com/samsepoil1211/Th3inspector.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
 ```
